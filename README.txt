@@ -19,7 +19,7 @@ By watching the youtube video linked below, you can follow along and create the 
 	- the video should answer any questions you have regarding on how to organize the database, or how to run the program
 
 
-NOTE: The youtube video was uploaded before the original due date, you can check by looking at the time stamp. The reason for the files being uploaded now is because on a previous version of this repository, I accidentally left some sensitive information in my python script file, and was unable to delete it from the commit history. I talked with the professors, and they said that as long as the video was uploaded before the deadline, there would be no late penalty.
+NOTE: The youtube video was uploaded before the original due date, you can check by looking at the time stamp. The reason for the files being uploaded now is because on a previous version of this repository, I accidentally left some sensitive information in my python script file, and was unable to delete it from the commit history. I talked with the professors, and they said that as long as the video was uploaded before the deadline, there would be no late penalty. I have not changed anything from the original repo except removing that bit of info from the python file.
 
 Youtube Link(video is unlisted)
 
